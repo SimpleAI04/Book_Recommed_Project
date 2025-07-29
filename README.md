@@ -43,7 +43,7 @@ The goal is to recommend books based on users' preferences and reading history b
 ## ⚙️ Requirements
     pip install -r requirements.txt
 ## ⚡ Run Demo
-    python app.py
+    streamlit run app.py
 
 ## 👨‍💻 My Role
 
